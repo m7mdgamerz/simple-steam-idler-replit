@@ -2,8 +2,8 @@ const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
 const keep_alive = require('./keep_alive.js')
 
-var username = '8xxm7mdxx8';
-var password = 'm7MDgAMERzz99';
+var username = '';
+var password = ';
 var shared_secret = '';
 
 var games = [730, 252490, 933100, 107410, 244210, 227300, 359550, 578080, 12120, 346110, 271590, 233800,];  // script was made by M7  
